@@ -3,4 +3,4 @@ redes
 computadores
 corinthians
 sexta
-trtr
+sabado
